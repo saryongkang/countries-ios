@@ -1,0 +1,30 @@
+PODS:
+  - CocoaLumberjack/Core (3.6.1)
+  - CocoaLumberjack/Swift (3.6.1):
+    - CocoaLumberjack/Core
+  - Nimble (8.0.5)
+  - Quick (2.2.0)
+  - SwiftLint (0.39.1)
+
+DEPENDENCIES:
+  - CocoaLumberjack/Swift (~> 3.6.1)
+  - Nimble (~> 8.0.5)
+  - Quick (~> 2.2.0)
+  - SwiftLint (~> 0.39.1)
+
+SPEC REPOS:
+  trunk:
+    - CocoaLumberjack
+    - Nimble
+    - Quick
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  CocoaLumberjack: b17ae15142558d08bbacf69775fa10c4abbebcc9
+  Nimble: 4ab1aeb9b45553c75b9687196b0fa0713170a332
+  Quick: 7fb19e13be07b5dfb3b90d4f9824c855a11af40e
+  SwiftLint: 55e96a4a4d537d4a3156859fc1c54bd24851a046
+
+PODFILE CHECKSUM: 7b2b63f11cb157a04b232e0109d6c2e0368ae07c
+
+COCOAPODS: 1.9.1
